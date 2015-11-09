@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   
   s.platform     = :tvos
 
-  s.source       = { :git => "https://github.com/siuying/ffmpeg-tvos-precompiled.git", :tag => "2.2", :submodules => true }
+  s.source       = { :git => "https://github.com/siuying/ffmpeg-tvos-precompiled.git", :tag => "2.8", :submodules => true }
 
   s.default_subspec = 'precompiled'
 
